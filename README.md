@@ -14,4 +14,6 @@ Balanço de massa exemplo 1 - Felder página 90.ipynb
 
 Arquivos referentes ao segundo vídeo
 
+Balanço de massa multiplas unidades.pdf
+
 Balanço de massa multiplas unidades aula 02.ipynb

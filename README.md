@@ -1,7 +1,7 @@
 # Balanço de massa
 Exemplos em Jupyter Notebook para balanço de massa
 
-<img src=”/img/balanco.png”>
+![](/img/balanco.png)
 
 ## Primeiro vídeo no youtube - Balanço de massa com uma unidade de processo sem reação química.
 [Video Youtube](https://youtu.be/8vdAEVrADCg)

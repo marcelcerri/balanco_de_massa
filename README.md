@@ -2,7 +2,7 @@
 Exemplos em Jupyter Notebook para balanço de massa
 
 # Primeiro vídeo no youtube - Balanço de massa com uma unidade de processo sem reação química.
-https://youtu.be/8vdAEVrADCg
+[Video Youtube](https://youtu.be/8vdAEVrADCg)
 
 Arquivos referentes ao primeiro vídeo
 
